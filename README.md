@@ -1,3 +1,5 @@
+![ำป2](https://user-images.githubusercontent.com/32266753/141768826-6cef5368-0486-49ce-a742-69af8dce1d22.png)
+
 # What is SubQuery?
 
 SubQuery powers the next generation of Polkadot dApps by allowing developers to extract, transform and query blockchain data in real time using GraphQL. In addition to this, SubQuery provides production quality hosting infrastructure to run these projects in.
